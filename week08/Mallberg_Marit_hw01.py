@@ -1,12 +1,12 @@
 # Marit Mallberg
 # UWYO COSC 1010
-# Submission Date
+# 10/11/24
 # HW 01
 # Lab Section: 10
-# Sources, people worked with, help given to: 
-# your
-# comments
-# here
+# Sources, people worked with, help given to: I worked with Mac Wienzierl and used GPT to decipher 
+# error codes. 
+# I am very annoyed with this assignment, as the data could be modeled in a much better
+# and easier way to access, but I understand the premiss of the task.
 
 # Homework Question:
 # 
